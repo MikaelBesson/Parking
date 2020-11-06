@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+
+.body {
+    background-image: url("back.jpg");
+    background-size: cover;
+    width: 1000px;
+    height: 600px;
+    position: relative;
+    border-style: solid;
+    border-radius: 15px;
+    top: 20px;
+    left: 50px;
+}
+
+img {
+    border-style: dashed;
+    border-color: black;
+    border-radius: 20px;
+    position: absolute;
+    right: 30px;
+    top: 10px;
+}
+
+h1 {
+    font-family: 'Staatliches', cursive;
+    position: absolute;
+    left: 35%;
+    color: white;
+}
+
+h2 {
+    border-radius: 15px;
+    color: black;
+    padding: 5px;
+    background-image: url("3007196back1.jpg");
+    box-shadow: black 5px 5px 10px;
+
+
+}
+
+.info {
+    color: black;
+    position: absolute;
+    top: 10%;
+    left: 25%;
+}
+.nom {
+    position: relative;
+    background-image: url("3007196back1.jpg");
+    border-radius: 15px;
+    color: black;
+    font-size: xx-large;
+    padding: 10px;
+    top: 15%;
+    box-shadow: black 5px 5px 10px;
+
+}
+
+.passion {
+    font-size: larger;
+    position: absolute;
+    top: 60%;
+    left: 35%;
+}
