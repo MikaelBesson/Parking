@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+
+#un {
+    background-image: url("troopers.jpg");
+    border-color: red;
+    box-shadow: red 8px 6px 10px;
+}
+
+#deux {
+    background-image: url("wall.jpg");
+    border-color: blue;
+    box-shadow: blue 8px 6px 10px;
+}
+
+#trois {
+    background-image: url("troopers.jpg");
+    border-color: yellow;
+    box-shadow: yellow 8px 6px 10px;
+
+}
+
+#quatre {
+    background-image: url("wall.jpg");
+    border-color: green;
+    box-shadow: green 8px 6px 10px;
+}
+
+#cinq {
+    background-image: url("troopers.jpg");
+    border-color: aqua;
+    box-shadow: aqua 8px 6px 10px;
+}
+
+#six {
+    background-image: url("wall.jpg");
+    border-color: blueviolet;
+    box-shadow: blueviolet 8px 6px 10px;
+}
+
+#sept {
+    background-image: url("troopers.jpg");
+    border-color: coral;
+    box-shadow: coral 8px 6px 10px;
+}
+
+#huit {
+    background-image: url("wall.jpg");
+    border-color: chartreuse;
+    box-shadow: chartreuse 8px 6px 10px;
+}
+
+#neuf {
+    background-image: url("troopers.jpg");
+    border-color: brown;
+    box-shadow: brown 8px 6px 10px;
+}
+
+#dix {
+    background-image: url("wall.jpg");
+    border-color: darkkhaki;
+    box-shadow: darkkhaki 8px 6px 10px;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+    border-width: 2px;
+    border-style: solid;
+
+    margin: 20px auto;
+    background-size: cover;
+}
+

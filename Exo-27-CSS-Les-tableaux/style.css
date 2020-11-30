@@ -1,0 +1,48 @@
+
+table {
+
+    border-style: double;
+    border-color: blue;
+    margin: 30px
+
+
+}
+
+td {
+    width: 40px;
+    height: 20px;
+    border-style: solid;
+}
+
+#un {
+    caption-side: top;
+    border-collapse: separate;
+    empty-cells: hide;
+}
+
+#deux {
+    caption-side: bottom;
+    border-collapse: separate;
+    empty-cells: show;
+}
+
+#trois {
+    caption-side: top;
+    border-collapse: collapse;
+    empty-cells: show;
+}
+
+#quatre {
+    caption-side: bottom;
+    border-collapse: collapse;
+    empty-cells: hide;
+}
+
+.pair {
+    text-transform: capitalize;
+}
+
+.impair {
+    background-color: aquamarine;
+}
+

@@ -1,0 +1,29 @@
+#un {
+    color: blue;
+}
+
+#deux {
+    font-family: "Courier New";
+}
+
+#trois {
+    text-align: center;
+
+}
+
+#quatre {
+    font-size: 50px;
+}
+
+#cinq {
+    background-color: yellow;
+}
+
+#six {
+    text-align: center;
+}
+
+#sept {
+    border: solid blue;
+    min-height: 200px;
+}

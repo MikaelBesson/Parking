@@ -1,0 +1,229 @@
+
+body {
+    border-style: solid;
+    border-color: black;
+    width: 800px;
+    height: 700px;
+    position: relative;
+}
+
+#Jerome {
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    left: 45%;
+    top: 2%
+}
+
+#Samuel {
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    height: 100px;
+    width: 50px;
+    position: absolute;
+    right: 5%;
+    top: 15%
+}
+
+
+#Damien {
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    height: 100px;
+    width: 50px;
+    position: absolute;
+    right: 5%;
+    top: 35%
+}
+
+#Gaetan {
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    height: 100px;
+    width: 50px;
+    position: absolute;
+    right: 5%;
+    top: 55%
+}
+
+#Yann {
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    height: 100px;
+    width: 50px;
+    position: absolute;
+    right: 5%;
+    top: 75%
+}
+
+#Matt {
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    bottom: 5%;
+    right: 30%;
+}
+
+#PY {
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    bottom: 5%;
+    right: 45%;
+}
+
+#Fred {
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    bottom: 5%;
+    right: 60%;
+}
+
+#Micka {
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    height: 100px;
+    width: 50px;
+    position: absolute;
+    left: 5%;
+    top: 80%;
+}
+
+#Amaury {
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    height: 100px;
+    width: 50px;
+    position: absolute;
+    left: 5%;
+    top: 60%;
+
+}
+
+#Chloe {
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    height: 100px;
+    width: 50px;
+    position: absolute;
+    left: 5%;
+    top: 40%;
+}
+
+#Laurie {
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    height: 100px;
+    width: 50px;
+    position: absolute;
+    left: 5%;
+    top: 20%;
+}
+
+#Elodie {
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    height: 100px;
+    width: 50px;
+    position: absolute;
+    left: 5%;
+    top: 0%;
+}
+
+#Mehdi {
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    height: 100px;
+    width: 50px;
+    position: absolute;
+    left: 30%;
+    top: 30%;
+}
+
+#Mika {
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    height: 100px;
+    width: 50px;
+    position: absolute;
+    left: 30%;
+    top: 50%;
+}
+
+#Justine {
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    left: 33%;
+    top: 65%;
+}
+
+#Sylvie {
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    left: 48%;
+    top: 65%;
+}
+
+#Jeff {
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    height: 100px;
+    width: 50px;
+    position: absolute;
+    left: 60%;
+    top: 50%;
+}
+
+#Clement {
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    height: 100px;
+    width: 50px;
+    position: absolute;
+    left: 60%;
+    top: 30%;
+}
+
+
+
+
+
+
+
+
+
+

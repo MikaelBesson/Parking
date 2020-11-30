@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+body {
+    border-style: solid;
+    border-color: grey;
+    margin: 5px;
+    padding: 0;
+}
+
+h1  {
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+span {
+    margin-left: 300px;
+}
+
+
+
+.footer {
+    height: 100px;
+    border-bottom-style: solid;
+    border-color: grey;
+    bottom: 0;
+    background-color: grey;
+    margin-top: 200px;
+}
+
+.img1 {
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.img2 {
+    margin-left: 520px;
+    margin-top: -223px;
+}
+
+#un {
+    margin-left: 270px;
+    text-decoration-line: none;
+
+
+}
+
+#deux {
+    margin-left: 320px;
+    text-decoration-line: none;
+
+}
